@@ -1,0 +1,6 @@
+{
+  "name": "Android Cat Lock App & Studio",
+  "description": "Android Cat Lock App with PIN security, full-screen cat intruder alarm, sound effects, vibration, Android Studio Kotlin project generator, and WhatsApp notification forwarder guide.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
